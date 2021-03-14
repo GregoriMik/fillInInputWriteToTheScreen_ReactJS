@@ -1,1 +1,1 @@
-The text that appears after writing in input 
+The text that appears after writing in input, reset button
